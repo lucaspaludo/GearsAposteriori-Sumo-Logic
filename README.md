@@ -1,2 +1,2 @@
 # GearsAposteriori-Fuzzy-Logic
-Controlling the movement of a robot
+This repository presents a way to control the movement of a sumo robot using Fuzzy Logic.
